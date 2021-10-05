@@ -1,0 +1,11 @@
+{
+    "mysql": {
+        "banco-de-dados": "sprint2_pb_node",
+        "usuario": "root",
+        "senha": "senha5Plus",
+        "host": "127.0.0.1"
+    },
+    "api": {
+        "porta": 3000
+    }
+}
